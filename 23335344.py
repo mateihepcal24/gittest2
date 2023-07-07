@@ -3,6 +3,7 @@ AUTHOR NAME: MATEI HEPCAL
 STUDENT NUMBER: 23335344
 """
 
+
 def read_csv(csvfile):
     
     """
